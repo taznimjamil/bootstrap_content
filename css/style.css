@@ -1,0 +1,22 @@
+.container-fluid{
+    padding-left: 0;
+    padding-right: 0;
+}
+.top{
+    text-align: center;
+    font-weight: 600;
+    font-size: 2rem;
+}
+.header{
+    /* background-color: aqua; */
+    border: 1px solid black;
+    margin-bottom: 20px;
+}
+.title{
+    margin-bottom: 0.5rem;
+    font-weight: 600;
+    line-height: 1.2;
+    font-size: 2rem;
+    color: brown;
+    margin-bottom: 20px;
+}
